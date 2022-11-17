@@ -1,4 +1,4 @@
-# mp-bc870ca4
+# Rock Paper Scissors Mini-program
 
 简单的石头剪刀布微信小程序。
 
